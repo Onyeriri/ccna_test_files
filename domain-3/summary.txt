@@ -321,3 +321,20 @@ CONFIGURATION COMMAND FOR DHCP
 -IP ADDRESS
 -IP ROUTE
 -NETSH INTERFACE IP SHOW ROUTE|CONFIG|DNSSERVER|ADDRESS
+
+
+
+Chapter 20
+Troubleshooting IPv4 Routing
+This chapter covers the following exam topics:
+2.0 Network Access
+2.8 Describe network device management access (Telnet, SSH,
+HTTP, HTTPS, console, TACACS+/RADIUS, and cloud managed)
+3.0 IP Connectivity
+3.3 Configure and verify IPv4 and IPv6 static routing
+3.3.a Default route
+3.3.b Network route
+3.3.c Host route
+3.3.d Floating static
+
+“Do I Know This Already?” Quiz
