@@ -338,3 +338,75 @@ HTTP, HTTPS, console, TACACS+/RADIUS, and cloud managed)
 3.3.d Floating static
 
 “Do I Know This Already?” Quiz
+
+
+
+Chapter 21
+Understanding OSPF Concepts
+This chapter covers the following exam topics:
+3.0 IP Connectivity
+3.2 Determine how a router makes a forwarding decision by
+default
+3.2.b Administrative distance
+3.2.c Routing protocol metric
+3.4 Configure and verify single area OSPFv2
+3.4.a Neighbor adjacencies
+3.4.b Point-to-point
+3.4.c Broadcast (DR/BR selection)
+3.4.d Router ID
+
+“Do I Know This Already?” Quiz
+
+1 - B,C      ✅
+2 - A,B,C    ✅
+3 - D        ✅
+4 - B        ✅
+5 - C        ✅
+6 - D        ✅
+
+Comparing Dynamic Routing Protocol Features
+ROUTERS LEARN THEIR IP ROUTE USING TWO METHODS
+-CONNECTED
+-STATIC
+-ROUTING PROTOCOLS
+
+Interior and Exterior Routing Protocols
+
+-IGP - A ROUTING PROTOCOL THAT WAS DESIGN AND INTENDED FOR USE INSIDE A SINGLE AUTONOMOUS SYSTEMS (AS)
+
+-EGP - A ROUTING PROTOCOL THAT WAS DESIGNED AND INTENDED FOR USE BETWEEN DIFFERENT AUTONOMOUS SYSTEMS.
+
+IGP Routing Protocol Algorithms
+-DISTANCE VECTOR - BELLMAN-FORD
+-ADVANCED DISTANCE VECTOR - CALLED BALANCED HYBRID
+-LINK-STATE
+
+Metrics
+-RIPV2 - HOP COUNT
+-OSPF - END-END INTERFACE COST
+-EIGRP - BANDWIDTH AND DELAY
+
+Other IGP Comparisons
+-RIV2 MULTICAST ADDRESS - 224.0.0.9
+-EIGRP MULTICAST ADDRESS - 224.0.0.10
+-OSPF MULTICAST ADDRESS - 224.0.0.5
+                          224.0.0.6
+
+-RIPV1 AND IGRP - ARE CLASSFUL ROUTING PROTOCOL AND USES NORMAL IP BROADCAST MESSAGES.
+
+OSPF Concepts and Operation
+OSPF USES DIJKSTRA SHORTEST PATH FIRST (SPF) ALGORITHM.
+
+BECOMING NEIGHBORS
+EXCHANGING DATABASES
+ADDING THE BEST ROUTE
+
+TH BASIC OF OSPF NEIGHBOR
+-MUST USE OSPF
+-BOTH CONNECTS TO THE SAME LINK
+-CONNECTED TO THE SAME VLAN
+-CONNECTED TO THE SAME SERIAL LINK
+-CONNECTED TO THE SAME ETHERNET LINK
+-BOTH SHARE SAME OSPF SETTINGS
+
+Meeting Neighbors and Learning Their Router ID
