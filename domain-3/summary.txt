@@ -465,3 +465,65 @@ CONFIGURATION COMMANDS
 
 
 
+Chapter 23
+Implementing Optional OSPF Features
+This chapter covers the following exam topics:
+3.0 IP Connectivity
+3.2 Determine how a router makes a forwarding decision by
+default
+3.2.b Administrative distance
+3.2.c Routing protocol metric
+3.4 Configure and verify single area OSPFv2
+3.4.a Neighbor adjacencies
+3.4.b Point-to-point
+3.4.c Broadcast (DR/BR selection)
+3.4.d Router ID
+
+Do I Know This Already?” Quiz
+1 - B,D   ✅
+2 - B,C   ✅
+3 - D     ✅
+4 - B     ✅
+5 - B     ✅
+6 - D     ✅
+
+Using Priority and RID to Influence the DR/BDR Election
+
+-PRIORITY VALUE RANGES FROM 0 - 255
+-THE HIGHEST OSPF ROUTER ID
+
+Additional Optional OSPFv2 Features
+-PASSIVE INTERFACES
+-DEFAULT ROUTES
+-METRICS
+-HELLO AND DEAD TIMERS
+
+CONFIGURATION COMMANDS
+-IP OSPF NETWORK
+-IP OSPF PRIORITY
+-PASSIVE INTERFACE TYPE NUMBER
+-PASSIVE INTERFACE DEFAULT
+-NO PASSIVE INTERFACE TYPE AND NUMBER
+-IP OSPF COST INTERFACE-COST
+-BANDWIDTH
+-AUTO-COST REFERENCE BANDWIDTH NUMBER
+-IP OSPF HELLO-INTERVAL TIME
+-IP OSPF DEAD-INTERVAL TIME
+-SHOW IP OSPF INTERFACE BRIEF
+-SHOW IP OSPF INTERFACE TYPE NUMBER
+-SHOW IP OSPF NEIGHBOR TYPE NUMBER
+-SHOW OSPF NEIGHBOR NEIGHBOR-ID
+-SHOW IP ROUTE
+-SHOW IP ROUTE OSPF
+
+
+
+
+
+
+
+
+
+
+
+
