@@ -462,4 +462,33 @@ THE IPV6 PROTOCOLS
 
 
 
+Chapter 26
+IPv6 Addressing and Subnetting
+This chapter covers the following exam topics:
+1.0 Network Fundamentals
+1.8 Configure and verify IPv6 addressing and prefix
+1.9 Describe IPv6 address types
+1.9.a Unicast (global, unique local, and link local)
+
+QUICK REFERENCE TABLE
+-STANDARD - TYPE 1,2,3,4,5
+-STUB - TYPE 1,2,3,3D
+-T-STUB - TYPE 1,2,3D
+-NSSA - TYPE 1,2,3,4,7
+-T-NSSA - TYPE 1,2,3D,7
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
