@@ -435,6 +435,30 @@ VRF IS COMMONLY USED BY SERVICE PROVIDERS TO ALLOW ONE DEVICE TO CARRY TRAFFIC F
 
 
 
+Chapter 25
+Fundamentals of IP Version 6
+This chapter covers the following exam topics:
+1.0 Network Fundamentals
+1.8 Configure and verify IPv6 addressing and prefix
+1.9 Describe IPv6 address types
+
+“Do I Know This Already?” Quiz
+1 - C        ✅
+2 - D         C
+3 - D        ✅
+4 - B        ✅
+5 - A        ✅
+6 - C        ✅
+
+Foundation Topics
+Introduction to IPv6
+THE IPV6 PROTOCOLS
+-OSPFV3 WORKS WITH IPV6 AND IPV4
+-ICMPV6 - REPLACED ICMP FOR IPV6
+-ARP REPLACED BY NEIGHBOR DISCOVERY PROTOCOL (NDP)
+-EIGRPV6
+-RIPNG
+-MP BGP-4
 
 
 
