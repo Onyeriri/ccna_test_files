@@ -519,7 +519,32 @@ THE GLOBAL ROUTING PREFIX IS USUALLY /32, /48 AND /56 WHICH IS LOCKED.
 UNIQUE LOCAL UNICAST ADDRESSES
 
 
+CHAPTER 17 SUMMARY TEXT
 
+Implementing IPv6 Addressing on Routers
+This chapter covers the following exam topics:
+1.0 Network Fundamentals
+1.8 Configure and verify IPv6 addressing and prefix
+1.9 Describe IPv6 address types
+1.9.a Unicast (global, unique local, and link local)
+1.9.b Anycast
+1.9.c Multicast
+1.9.d Modified EUI 64
+
+FC00:0001:0000::/48 - SUBNET PREFIX
+
+“Do I Know This Already?” Quiz
+
+1-A        ✅
+2-B        ✅
+3-A,C      ✅
+4-B,D      ✅
+5-A        ✅
+6-B        ✅
+7-C        A
+8-B,C      ✅
+
+IMPLEMENTING UNICAST IPV6 ADDRESS ON ROUTERS
 
 
 
