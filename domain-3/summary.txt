@@ -600,6 +600,32 @@ CONFIGURATION COMMAND
 
 
 
+Chapter 29
+Implementing IPv6 Routing
+This chapter covers the following exam topics:
+3.0 IP Connectivity
+3.1 Interpret the components of routing table
+3.1.a Routing protocol code
+3.1.b Prefix
+3.1.c Network mask
+3.1.d Next hop
+3.1.e Administrative distance
+3.3 Configure and verify IPv4 and IPv6 static routing
+3.3.a Default route
+3.3.b Network route
+3.3.c Host route
+3.3.d Floating static
+
+“Do I Know This Already?” Quiz
+1-A,D       A,C
+2-A,C       ✅
+3-A,B       ✅
+4-B         ✅
+5-B         ✅
+6-B         ✅
+7-C         ✅
+
+
 
 
 
