@@ -666,6 +666,26 @@ COMMONLY USED ETHERNET HEADER FORMAT
 
 
 
+Chapter 3
+Fundamentals of WANs and IP Routing
+This chapter covers the following exam topics:
+1.0 Network Fundamentals
+1.1 Explain the role and function of network components
+1.1.a Routers
+1.2 Describe characteristics of network topology architectures
+1.2.d WAN
+
+“Do I Know This Already?” Quiz
+1 D         ✅
+2 B,D       ✅
+3 A         ✅
+4 C         ✅
+5 C         ✅
+6 A,C       ✅
+7 C         ✅
+
+
+
 
 
 
