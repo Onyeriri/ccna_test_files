@@ -684,8 +684,67 @@ This chapter covers the following exam topics:
 6 A,C       ✅
 7 C         ✅
 
+version field - 4 bits
+internet header length - 4 bits
+minimum value is 5 (x 4 bytes) = 20
+maximum value is 15 (x 4 bytes) = 60
+dscp field - 6 bits
+ecn - 2 bits
+total length - 16 bits
+minimum value of 20 bits
+identification value 16 bits
+flags value - 3 bits
+fragment offset 13 bits
+ttl length - 8 bits
+protocol length - 8 bits
+tcp - 6
+udp - 17
+header checksum - 16 bits
 
+RI(CONFIG)#IP ROUTE IP-ADDRESS SUBNET MASK EXIT-INTERFACE NEXT-HOP
+R1(CONF)#IP ROUTE IP-ADDRESS MASK NEXT-HOP
+0.0.0.0/0.0.0.0
+R1(CONFIG)#IP ROUTE 0.0.0.0 0.0.0.0 NEXT-HOP IP
+R1(CONFIG)#IP ROUTE IP-ADDRESS NETMASK EXIT INTERFACE
 
+default bridge id - 32768
+4096
+
+standby group-number preempt
+vrrp mac address - 0000.5e00.01xx
+hsrpv2 mac address - 0000.0c9f.fxxx
+hsrpv1 mac address - 0000.0c07.acxx
+interface command - standby version 2
+standby group-number ip ip-address
+ra - 134
+na - 136
+
+ntp authentication-key key-number md5 key
+ntp trusted-key key-number
+clock timezone name hours-offset
+show clock details
+show calendar - show hardware clock
+calendar set hh:mm:ss day month year
+symmetric active mode - peer to devices on the same stratum
+primary servers
+snmp-server community password ro
+snmp-server host ip-address version 2c community-string
+snmp-server location locations
+snmp-server enable traps trap-types
+snmp-server contact contact-info
+cos/pcp 4 - video traffic
+high priority data af2x
+cos/pcp - 5 voice traffic
+chef 10002 -tcp port
+puppet port tcp 8140
+chef - ruby
+ansible - playbook - python
+chef - run / run-list
+puppet - manifest - ruby
+terraform core - go
+(1763) - visit page later
+wan profile, policy profile  and tags
+profile name, ssid, wlan id
 
 
 
