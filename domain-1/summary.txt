@@ -745,6 +745,20 @@ terraform core - go
 (1763) - visit page later
 wan profile, policy profile  and tags
 profile name, ssid, wlan id
+radio resource management - rrm
+flexible authentication via secure tunneling
+eap is integrated with 802.1x which provides port based authentication
+tkip - temporal key integrity protocol
+wep uses rc4 for encryption
+protected access credential - pac
+frame control - 2
+frame duration field - 2
+address 1/2/3/4 - 6 bytes
+sequence control - 2 bytes
+qos control - 2 bytes
+ht control - 4 bytes
+fcs - 4 bytes
+arp access-list name
 
 
 
