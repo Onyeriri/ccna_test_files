@@ -759,6 +759,26 @@ qos control - 2 bytes
 ht control - 4 bytes
 fcs - 4 bytes
 arp access-list name
+power inline police
+power inline police errdisable
+power inline police action log
+ip nat pool pool-name start-ip end-ip netmask subnet-mask
+ip nat inside source list acl-name pool pool-name
+ip nat inside source list acl-list pool pool-name overload
+ip nat inside source list acl-list interface interface overload
+ip nat inside
+ip nat outside
+ip nat inside source static inside local inside global
+ip ftp username username
+ip ftp password password
+line console 0
+password password
+login
+login local
+line vty 0 15
+exec-timeout minutes seconds
+transport input telnet ssh all
+
 
 
 
