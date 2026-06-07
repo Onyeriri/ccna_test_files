@@ -778,9 +778,31 @@ login local
 line vty 0 15
 exec-timeout minutes seconds
 transport input telnet ssh all
-
-
-
-
-
+access-class acl in
+crypto key generate rsa modulus number
+1.99
+show version
+show ip ssh
+logging console level
+logging monitor level
+logging buffered size level
+logging host ip-address
+logging trap level
+terminal monitor
+service timestap log datetime
+service sequence number
+snmp-server contact contact-info
+snmp-server community password ro
+snmp-sever community password rw
+snmp-server host ip-address version 2c comunity string
+snmp-server enable traps trap-types
+snmp enable traps trap-type
+snmp-server enable traps trap-type
+ip dns sever
+ip host name ip-address
+ip name server ip-address
+ip domain lookup
+ip domain name domain-name
+clock read calender
+clock timezone name hours-offset
 
