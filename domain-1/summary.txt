@@ -805,4 +805,23 @@ ip domain lookup
 ip domain name domain-name
 clock read calender
 clock timezone name hours-offset
-
+1-policy, 2-site, 3-rf
+name, description, status
+ideal timeout - 300
+session timeout - 1800
+10base-t - 802.3
+100base-t 802.3u
+1000base-t 802.3ab
+10bgbase-t 803.3an
+40gbase-t 802.3ba
+2.5gbase-t
+syn
+syn-ack
+ack
+ack, fin
+ack
+ack, fin
+ack
+100base-lx10 - 100mbps - 10km
+1000base0-lx - 1 gps - 5km
+100base-zx - 1
